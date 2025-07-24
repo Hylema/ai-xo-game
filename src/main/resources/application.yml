@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: xo
+
+app:
+  board-size: 3
+  ai-learning: true
+  user-symbol: X

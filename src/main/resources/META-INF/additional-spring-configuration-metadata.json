@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "app.board-size",
+      "type": "java.lang.Integer",
+      "description": "Размер поля для игры."
+    },
+    {
+      "name": "app.ai-learning",
+      "type": "java.lang.Boolean",
+      "description": "Нейросеть в режиме обучения."
+    },
+    {
+      "name": "app.user-symbol",
+      "type": "java.lang.String",
+      "description": "Выбор символа пользователя X или O."
+    }
+  ]
+}
